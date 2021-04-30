@@ -15,15 +15,9 @@ code：
 ```python
 print(cxk)
 ```   
-a block：> a_block
-
  
-a table:   
-
- | a | b | c |  
- |---|---|---|  
- | d | e | f |  
- a bulleted list：   
+a block：> a_block
+a bulleted list：   
 * 123   
 * 1234    
 * 1231  
@@ -31,6 +25,13 @@ a numbered list:
 1. 第一项   
 2. 第二项  
 3. 第三项    
+ 
+a table:   
+
+ | a | b | c |  
+ |---|---|---|  
+ | d | e | f |
+    
   
 **bolded text**  
 
