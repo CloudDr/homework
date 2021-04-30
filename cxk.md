@@ -3,19 +3,17 @@
 #### H4  
      
      
-This is a link to README.md<https://github.com/xxdnb123/xxdzs/blob/main/README.md>       
+This is a link to README.md<https://github.com/CloudDr/homework/edit/main/README.md>       
 This is a picture![img](2.png)    
 
 
 
 an externel picture   
-![img](https://gimg2.baidu.com/image_search/src=http%3A%2F%2F2c.zol-img.com.cn%2Fproduct%2F124_500x2000%2F748%2FceZOdKgDAFsq2.jpg&refer=http%3A%2F%2F2c.zol-img.com.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1622123602&t=c966a8a6f2405cfa114752b782da9810)   
+![img](https://th.bing.com/th/id/R1a7636a5a2afe9982c8f08a2fd3d2c07?rik=3bWdb1HkhfMhKg&riu=http%3a%2f%2fp.store.itangyuan.com%2fp%2fchapter%2fattachment%2fEgEte_2Tetb%2fEg6setfW4g-vEgjTe_-VeTuNjcerIHoUg7iU665q4hEUiNi19g9MjCY.jpg&ehk=MX6l3mgfhUXgoWO20%2bsIXe%2fYgezHYzHdfSPF5evsbzg%3d&risl=&pid=ImgRaw)   
 
 code：   
-```javascript
-$(document).ready(function () {
-    alert('yes');
-});
+```python
+print(cxk)
 ```   
 a block：> a_block
 a bulleted list：   
